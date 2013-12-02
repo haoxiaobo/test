@@ -5,20 +5,11 @@ add in master.
 add in master.
 oiasdo oaisdjoaijdsoaijds aods osad 
 ]whefkwhefkwhefkwfh
-<<<<<<< HEAD
-<<<<<<< HEAD
 wfekwhfwk
 add in master.
 add in master.
 add in master.
-=======
-=======
->>>>>>> origin/branch2
 
 add in master.
 
 this is branch 1.
-<<<<<<< HEAD
->>>>>>> origin/branch2
-=======
->>>>>>> origin/branch2
